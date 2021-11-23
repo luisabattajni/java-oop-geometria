@@ -16,9 +16,9 @@ public class Main {
 		 */
 		
 		Scanner scan = new Scanner (System.in);
-		System.out.println("Inserire la base del rettangolo: ");
+		System.out.println("Inserire la base del rettangolo in cm: ");
 		int b = scan.nextInt();
-		System.out.println("Inserire l'altezza del rettangolo: ");
+		System.out.println("Inserire l'altezza del rettangolo in cm: ");
 		int h = scan.nextInt();
 		
 		
